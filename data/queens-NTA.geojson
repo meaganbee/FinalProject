@@ -1,0 +1,1712 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": 163,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7964660021256,
+          40.7114679071637
+        ]
+      },
+      "properties": {
+        "FID": 163,
+        "Name": "Jamaica Hills",
+        "Stacked": 2,
+        "AnnoLine1": "Jamaica",
+        "AnnoLine2": "Hills",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 166,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7967181629989,
+          40.7335085220698
+        ]
+      },
+      "properties": {
+        "FID": 166,
+        "Name": "Utopia",
+        "Stacked": 1,
+        "AnnoLine1": "Utopia",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 169,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8048625858176,
+          40.734944448525
+        ]
+      },
+      "properties": {
+        "FID": 169,
+        "Name": "Pomonok",
+        "Stacked": 1,
+        "AnnoLine1": "Pomonok",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 172,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8946813790395,
+          40.7703256645651
+        ]
+      },
+      "properties": {
+        "FID": 172,
+        "Name": "Astoria Heights",
+        "Stacked": 2,
+        "AnnoLine1": "Astoria",
+        "AnnoLine2": "Heights",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9156551659878,
+          40.7685168638338
+        ]
+      },
+      "properties": {
+        "FID": 188,
+        "Name": "Astoria",
+        "Stacked": 1,
+        "AnnoLine1": "Astoria",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 189,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9538692549762,
+          40.7434223543002
+        ]
+      },
+      "properties": {
+        "FID": 189,
+        "Name": "Hunters Point",
+        "Stacked": 2,
+        "AnnoLine1": "Hunters",
+        "AnnoLine2": "Point",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 191,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9018430855618,
+          40.7463573552249
+        ]
+      },
+      "properties": {
+        "FID": 191,
+        "Name": "Woodside",
+        "Stacked": 1,
+        "AnnoLine1": "Woodside",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 194,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8828225030683,
+          40.7519896484645
+        ]
+      },
+      "properties": {
+        "FID": 194,
+        "Name": "Jackson Heights",
+        "Stacked": 2,
+        "AnnoLine1": "Jackson",
+        "AnnoLine2": "Heights",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 197,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8816576334561,
+          40.7440567719996
+        ]
+      },
+      "properties": {
+        "FID": 197,
+        "Name": "Elmhurst",
+        "Stacked": 1,
+        "AnnoLine1": "Elmhurst",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 200,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8381390372272,
+          40.6542335281602
+        ]
+      },
+      "properties": {
+        "FID": 200,
+        "Name": "Howard Beach",
+        "Stacked": 2,
+        "AnnoLine1": "Howard",
+        "AnnoLine2": "Beach",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 203,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8568263759671,
+          40.7423900175747
+        ]
+      },
+      "properties": {
+        "FID": 203,
+        "Name": "Corona",
+        "Stacked": 1,
+        "AnnoLine1": "Corona",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 204,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9181942866924,
+          40.7456600719949
+        ]
+      },
+      "properties": {
+        "FID": 204,
+        "Name": "Sunnyside Gardens",
+        "Stacked": 2,
+        "AnnoLine1": "Sunnyside",
+        "AnnoLine2": "Gardens",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 206,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8444764054149,
+          40.7252720466588
+        ]
+      },
+      "properties": {
+        "FID": 206,
+        "Name": "Forest Hills",
+        "Stacked": 2,
+        "AnnoLine1": "Forest",
+        "AnnoLine2": "Hills",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 207,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9324437790341,
+          40.7372589807147
+        ]
+      },
+      "properties": {
+        "FID": 207,
+        "Name": "Blissville",
+        "Stacked": 1,
+        "AnnoLine1": "Blissville",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 209,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8298204498771,
+          40.7051872964808
+        ]
+      },
+      "properties": {
+        "FID": 209,
+        "Name": "Kew Gardens",
+        "Stacked": 2,
+        "AnnoLine1": "Kew",
+        "AnnoLine2": "Gardens",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 212,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8318346062995,
+          40.6979555742948
+        ]
+      },
+      "properties": {
+        "FID": 212,
+        "Name": "Richmond Hill",
+        "Stacked": 2,
+        "AnnoLine1": "Richmond",
+        "AnnoLine2": "Hill",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8317743991129,
+          40.7644624695947
+        ]
+      },
+      "properties": {
+        "FID": 215,
+        "Name": "Flushing",
+        "Stacked": 1,
+        "AnnoLine1": "Flushing",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 218,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9392036685378,
+          40.7502256121781
+        ]
+      },
+      "properties": {
+        "FID": 218,
+        "Name": "Long Island City",
+        "Stacked": 3,
+        "AnnoLine1": "Long",
+        "AnnoLine2": "Island",
+        "AnnoLine3": "City",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 220,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9269176004548,
+          40.7401845480555
+        ]
+      },
+      "properties": {
+        "FID": 220,
+        "Name": "Sunnyside",
+        "Stacked": 1,
+        "AnnoLine1": "Sunnyside",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 222,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8670428836862,
+          40.7640815101414
+        ]
+      },
+      "properties": {
+        "FID": 222,
+        "Name": "East Elmhurst",
+        "Stacked": 2,
+        "AnnoLine1": "East",
+        "AnnoLine2": "Elmhurst",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 224,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8962185503816,
+          40.7254356368134
+        ]
+      },
+      "properties": {
+        "FID": 224,
+        "Name": "Maspeth",
+        "Stacked": 1,
+        "AnnoLine1": "Maspeth",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 226,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9014365903482,
+          40.7083314153231
+        ]
+      },
+      "properties": {
+        "FID": 226,
+        "Name": "Ridgewood",
+        "Stacked": 1,
+        "AnnoLine1": "Ridgewood",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 229,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8707430789412,
+          40.7027706888439
+        ]
+      },
+      "properties": {
+        "FID": 229,
+        "Name": "Glendale",
+        "Stacked": 1,
+        "AnnoLine1": "Glendale",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 230,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8921390056361,
+          40.5673841213933
+        ]
+      },
+      "properties": {
+        "FID": 230,
+        "Name": "Roxbury",
+        "Stacked": 1,
+        "AnnoLine1": "Roxbury",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8578282710807,
+          40.7289823595628
+        ]
+      },
+      "properties": {
+        "FID": 232,
+        "Name": "Rego Park",
+        "Stacked": 1,
+        "AnnoLine1": "Rego Park",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8811446007461,
+          40.7164227726378
+        ]
+      },
+      "properties": {
+        "FID": 233,
+        "Name": "Middle Village",
+        "Stacked": 2,
+        "AnnoLine1": "Middle",
+        "AnnoLine2": "Village",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8581118653072,
+          40.6898951362381
+        ]
+      },
+      "properties": {
+        "FID": 234,
+        "Name": "Woodhaven",
+        "Stacked": 1,
+        "AnnoLine1": "Woodhaven",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 236,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8432040561712,
+          40.6807167240639
+        ]
+      },
+      "properties": {
+        "FID": 236,
+        "Name": "Ozone Park",
+        "Stacked": 1,
+        "AnnoLine1": "Ozone Park",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 238,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.809866169518,
+          40.6685578322437
+        ]
+      },
+      "properties": {
+        "FID": 238,
+        "Name": "South Ozone Park",
+        "Stacked": 2,
+        "AnnoLine1": "South",
+        "AnnoLine2": "Ozone Park",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 240,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8266789671487,
+          40.7906098346151
+        ]
+      },
+      "properties": {
+        "FID": 240,
+        "Name": "Malba",
+        "Stacked": 1,
+        "AnnoLine1": "Malba",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 241,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8430466896267,
+          40.7849110254869
+        ]
+      },
+      "properties": {
+        "FID": 241,
+        "Name": "College Point",
+        "Stacked": 2,
+        "AnnoLine1": "College",
+        "AnnoLine2": "Point",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 243,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8142035573088,
+          40.781299042553
+        ]
+      },
+      "properties": {
+        "FID": 243,
+        "Name": "Whitestone",
+        "Stacked": 1,
+        "AnnoLine1": "Whitestone",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 246,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7742750081655,
+          40.766048907741
+        ]
+      },
+      "properties": {
+        "FID": 246,
+        "Name": "Bayside",
+        "Stacked": 1,
+        "AnnoLine1": "Bayside",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 248,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7917638201071,
+          40.7617378225096
+        ]
+      },
+      "properties": {
+        "FID": 248,
+        "Name": "Auburndale",
+        "Stacked": 1,
+        "AnnoLine1": "Auburndale",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 250,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7388991222304,
+          40.770834469925
+        ]
+      },
+      "properties": {
+        "FID": 250,
+        "Name": "Little Neck",
+        "Stacked": 2,
+        "AnnoLine1": "Little",
+        "AnnoLine2": "Neck",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 252,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7424995746116,
+          40.766854374101
+        ]
+      },
+      "properties": {
+        "FID": 252,
+        "Name": "Douglaston",
+        "Stacked": 1,
+        "AnnoLine1": "Douglaston",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 254,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7154825476206,
+          40.7494490734639
+        ]
+      },
+      "properties": {
+        "FID": 254,
+        "Name": "Glen Oaks",
+        "Stacked": 2,
+        "AnnoLine1": "Glen",
+        "AnnoLine2": "Oaks",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 255,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.805531406468,
+          40.5873459789472
+        ]
+      },
+      "properties": {
+        "FID": 255,
+        "Name": "Hammels",
+        "Stacked": 1,
+        "AnnoLine1": "Hammels",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 256,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7201295061366,
+          40.7285814512342
+        ]
+      },
+      "properties": {
+        "FID": 256,
+        "Name": "Bellerose",
+        "Stacked": 1,
+        "AnnoLine1": "Bellerose",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 257,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7659691800003,
+          40.6113299361333
+        ]
+      },
+      "properties": {
+        "FID": 257,
+        "Name": "Bayswater",
+        "Stacked": 1,
+        "AnnoLine1": "Bayswater",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 258,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8208790391374,
+          40.7225865090177
+        ]
+      },
+      "properties": {
+        "FID": 258,
+        "Name": "Kew Gardens Hills",
+        "Stacked": 3,
+        "AnnoLine1": "Kew",
+        "AnnoLine2": "Gardens",
+        "AnnoLine3": "Hills",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 259,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9456321351389,
+          40.7560995640925
+        ]
+      },
+      "properties": {
+        "FID": 259,
+        "Name": "Queensbridge",
+        "Stacked": 1,
+        "AnnoLine1": "Queensbridge",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7827147483133,
+          40.7344027337661
+        ]
+      },
+      "properties": {
+        "FID": 260,
+        "Name": "Fresh Meadows",
+        "Stacked": 2,
+        "AnnoLine1": "Fresh",
+        "AnnoLine2": "Meadows",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8117496107622,
+          40.710943735347
+        ]
+      },
+      "properties": {
+        "FID": 262,
+        "Name": "Briarwood",
+        "Stacked": 1,
+        "AnnoLine1": "Briarwood",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.796903039924,
+          40.7046656227965
+        ]
+      },
+      "properties": {
+        "FID": 263,
+        "Name": "Jamaica Center",
+        "Stacked": 2,
+        "AnnoLine1": "Jamaica",
+        "AnnoLine2": "Center",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 264,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7549511323982,
+          40.7456268430191
+        ]
+      },
+      "properties": {
+        "FID": 264,
+        "Name": "Oakland Gardens",
+        "Stacked": 2,
+        "AnnoLine1": "Oakland",
+        "AnnoLine2": "Gardens",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 265,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7387162090303,
+          40.7189013590911
+        ]
+      },
+      "properties": {
+        "FID": 265,
+        "Name": "Queens Village",
+        "Stacked": 2,
+        "AnnoLine1": "Queens",
+        "AnnoLine2": "Village",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 266,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7592514627256,
+          40.7112517066291
+        ]
+      },
+      "properties": {
+        "FID": 266,
+        "Name": "Hollis",
+        "Stacked": 1,
+        "AnnoLine1": "Hollis",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 267,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7904275098565,
+          40.6969195146045
+        ]
+      },
+      "properties": {
+        "FID": 267,
+        "Name": "South Jamaica",
+        "Stacked": 1,
+        "AnnoLine1": "South Jamaica",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 268,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7586774054557,
+          40.6944536466573
+        ]
+      },
+      "properties": {
+        "FID": 268,
+        "Name": "St. Albans",
+        "Stacked": 1,
+        "AnnoLine1": "St. Albans",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 269,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7725892476932,
+          40.6752196530922
+        ]
+      },
+      "properties": {
+        "FID": 269,
+        "Name": "Rochdale",
+        "Stacked": 1,
+        "AnnoLine1": "Rochdale",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.760422293871,
+          40.6662387462021
+        ]
+      },
+      "properties": {
+        "FID": 270,
+        "Name": "Springfield Gardens",
+        "Stacked": 2,
+        "AnnoLine1": "Springfield",
+        "AnnoLine2": "Gardens",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 271,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7352700976569,
+          40.6927829010789
+        ]
+      },
+      "properties": {
+        "FID": 271,
+        "Name": "Cambria Heights",
+        "Stacked": 2,
+        "AnnoLine1": "Cambria",
+        "AnnoLine2": "Heights",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 272,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7352621528857,
+          40.6598246888741
+        ]
+      },
+      "properties": {
+        "FID": 272,
+        "Name": "Rosedale",
+        "Stacked": 1,
+        "AnnoLine1": "Rosedale",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 273,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7549810419754,
+          40.6031426761206
+        ]
+      },
+      "properties": {
+        "FID": 273,
+        "Name": "Far Rockaway",
+        "Stacked": 2,
+        "AnnoLine1": "Far Rockaway",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 274,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8200562734714,
+          40.6030348248542
+        ]
+      },
+      "properties": {
+        "FID": 274,
+        "Name": "Broad Channel",
+        "Stacked": 2,
+        "AnnoLine1": "Broad",
+        "AnnoLine2": "Channel",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 275,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9255133833304,
+          40.5574095171527
+        ]
+      },
+      "properties": {
+        "FID": 275,
+        "Name": "Breezy Point",
+        "Stacked": 2,
+        "AnnoLine1": "Breezy",
+        "AnnoLine2": "Point",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 276,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9022910230286,
+          40.7759312880409
+        ]
+      },
+      "properties": {
+        "FID": 276,
+        "Name": "Steinway",
+        "Stacked": 1,
+        "AnnoLine1": "Steinway",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 277,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8043659059494,
+          40.7927896827192
+        ]
+      },
+      "properties": {
+        "FID": 277,
+        "Name": "Beechhurst",
+        "Stacked": 1,
+        "AnnoLine1": "Beechhurst",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 278,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7768036055176,
+          40.7828510843788
+        ]
+      },
+      "properties": {
+        "FID": 278,
+        "Name": "Bay Terrace",
+        "Stacked": 2,
+        "AnnoLine1": "Bay",
+        "AnnoLine2": "Terrace",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 279,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7761341917809,
+          40.5956500487814
+        ]
+      },
+      "properties": {
+        "FID": 279,
+        "Name": "Edgemere",
+        "Stacked": 1,
+        "AnnoLine1": "Edgemere",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 280,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7919937039238,
+          40.5891521833144
+        ]
+      },
+      "properties": {
+        "FID": 280,
+        "Name": "Arverne",
+        "Stacked": 1,
+        "AnnoLine1": "Arverne",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8223625927857,
+          40.5828099341288
+        ]
+      },
+      "properties": {
+        "FID": 281,
+        "Name": "Rockaway Beach",
+        "Stacked": 2,
+        "AnnoLine1": "Rockaway",
+        "AnnoLine2": "Beach",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 282,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8575481166255,
+          40.57204496416
+        ]
+      },
+      "properties": {
+        "FID": 282,
+        "Name": "Neponsit",
+        "Stacked": 1,
+        "AnnoLine1": "Neponsit",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 283,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8127640810619,
+          40.7641343958289
+        ]
+      },
+      "properties": {
+        "FID": 283,
+        "Name": "Murray Hill",
+        "Stacked": 2,
+        "AnnoLine1": "Murray",
+        "AnnoLine2": "Hill",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 284,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7088484139106,
+          40.7413866943155
+        ]
+      },
+      "properties": {
+        "FID": 284,
+        "Name": "Floral Park",
+        "Stacked": 1,
+        "AnnoLine1": "Floral Park",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 285,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7671430396293,
+          40.7209654739857
+        ]
+      },
+      "properties": {
+        "FID": 285,
+        "Name": "Holliswood",
+        "Stacked": 1,
+        "AnnoLine1": "Holliswood",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 286,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7872283480369,
+          40.7168130949748
+        ]
+      },
+      "properties": {
+        "FID": 286,
+        "Name": "Jamaica Estates",
+        "Stacked": 2,
+        "AnnoLine1": "Jamaica",
+        "AnnoLine2": "Estates",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 287,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8258105438122,
+          40.7445805782158
+        ]
+      },
+      "properties": {
+        "FID": 287,
+        "Name": "Queensboro Hill",
+        "Stacked": 2,
+        "AnnoLine1": "Queensboro",
+        "AnnoLine2": "Hill",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7976043915444,
+          40.7238331676736
+        ]
+      },
+      "properties": {
+        "FID": 288,
+        "Name": "Hillcrest",
+        "Stacked": 1,
+        "AnnoLine1": "Hillcrest",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9315764883637,
+          40.7617127946434
+        ]
+      },
+      "properties": {
+        "FID": 289,
+        "Name": "Ravenswood",
+        "Stacked": 1,
+        "AnnoLine1": "Ravenswood",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 290,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8496392195138,
+          40.6639266715299
+        ]
+      },
+      "properties": {
+        "FID": 290,
+        "Name": "Lindenwood",
+        "Stacked": 1,
+        "AnnoLine1": "Lindenwood",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 291,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.740257440584,
+          40.6678921534601
+        ]
+      },
+      "properties": {
+        "FID": 291,
+        "Name": "Laurelton",
+        "Stacked": 1,
+        "AnnoLine1": "Laurelton",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 292,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8625261180979,
+          40.7360828368139
+        ]
+      },
+      "properties": {
+        "FID": 292,
+        "Name": "Lefrak City",
+        "Stacked": 2,
+        "AnnoLine1": "Lefrak",
+        "AnnoLine2": "City",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 293,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.854018895559,
+          40.5761638003072
+        ]
+      },
+      "properties": {
+        "FID": 293,
+        "Name": "Belle Harbor",
+        "Stacked": 1,
+        "AnnoLine1": "Belle Harbor",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 294,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8415350901502,
+          40.580351192595
+        ]
+      },
+      "properties": {
+        "FID": 294,
+        "Name": "Rockaway Park",
+        "Stacked": 1,
+        "AnnoLine1": "Rockaway Park",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 295,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7966488829966,
+          40.5977188567663
+        ]
+      },
+      "properties": {
+        "FID": 295,
+        "Name": "Somerville",
+        "Stacked": 1,
+        "AnnoLine1": "Somerville",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 296,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.75175447121,
+          40.6600114822471
+        ]
+      },
+      "properties": {
+        "FID": 296,
+        "Name": "Brookville",
+        "Stacked": 1,
+        "AnnoLine1": "Brookville",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 297,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7388933532746,
+          40.7330223099655
+        ]
+      },
+      "properties": {
+        "FID": 297,
+        "Name": "Bellaire",
+        "Stacked": 1,
+        "AnnoLine1": "Bellaire",
+        "AnnoLine2": " ",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 298,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8575193102065,
+          40.7540792687329
+        ]
+      },
+      "properties": {
+        "FID": 298,
+        "Name": "North Corona",
+        "Stacked": 2,
+        "AnnoLine1": "North",
+        "AnnoLine2": "Corona",
+        "AnnoLine3": " ",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 299,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8410235081173,
+          40.7146193440372
+        ]
+      },
+      "properties": {
+        "FID": 299,
+        "Name": "Forest Hills Gardens",
+        "Stacked": 3,
+        "AnnoLine1": "Forest",
+        "AnnoLine2": "Hills",
+        "AnnoLine3": "Gardens",
+        "AnnoAngle": 0,
+        "Borough": "Queens"
+      }
+    }
+  ]
+}
